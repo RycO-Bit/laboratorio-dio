@@ -1,6 +1,18 @@
 # E-commerce Simples com Streamlit e SQLite 🛒
 
-![Meu E-commerce Funcionando](screenshot.png)
+## Screenshots
+
+### Página Inicial
+![Página Inicial](screenshots/home.png)
+
+### Detalhes do Produto
+![Detalhes do Produto](screenshots/product_detail.png)
+
+### Carrinho de Compras
+![Carrinho](screenshots/cart.png)
+
+### Checkout
+![Checkout](screenshots/checkout.png)
 
 ## Como usar 🔧
 - Execute `streamlit run main.py` para iniciar o app.
