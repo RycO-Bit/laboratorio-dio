@@ -1,5 +1,13 @@
 # E-commerce Simples com Streamlit e SQLite 🛒
 
+## Sumário
+
+- [Screenshots](#screenshots)  
+- [Como usar 🔧](#como-usar)  
+- [Estrutura do Projeto 📁](#estrutura-do-projeto)  
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://laboratorio-dio-2ddfjtxvdh3mse2qmpoo92.streamlit.app/)
+
 ## Screenshots
 
 ### Página Inicial
