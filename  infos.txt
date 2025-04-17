@@ -1,0 +1,9 @@
+# Informações do Projeto
+- Nome: E-commerce Simples
+- Banco de Dados: SQLite (arquivo `produtos.sql`)
+- Dependências: Streamlit (ver `requirements.txt`)
+- Funcionalidades:
+  * Cadastro de produtos
+  * Listagem dinâmica
+  * Visualização de imagens (via URL)
+- Como executar: `streamlit run main.py`
