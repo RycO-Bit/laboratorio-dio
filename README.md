@@ -3,8 +3,8 @@
 ## Sumário
 
 - [Screenshots](#screenshots)  
-- [Como usar ](#como-usar)  
-- [Estrutura do Projeto ](#estrutura-do-projeto)  
+- [Como usar](#como-usar)  
+- [Estrutura do Projeto](#estrutura-do-projeto)  
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://laboratorio-dio-2ddfjtxvdh3mse2qmpoo92.streamlit.app/)
 
@@ -22,11 +22,11 @@
 ### Checkout
 ![Checkout](screenshots/checkout.png)
 
-## Como usar 🔧
+## Como usar
 - Execute `streamlit run main.py` para iniciar o app.
 - Cadastre produtos via interface web.
 
-## Estrutura do Projeto 📁
+## Estrutura do Projeto
 - `main.py`: Código principal do aplicativo.
 - `produtos.sql`: Script do banco de dados.
 - `requirements.txt`: Dependências do Python.
