@@ -6,4 +6,4 @@
   * Cadastro de produtos
   * Listagem dinâmica
   * Visualização de imagens (via URL)
-- Como executar: `streamlit run main.py`
+- Como executar: `streamlit run app.py`
